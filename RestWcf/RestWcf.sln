@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestWcf", "RestWcf\RestWcf.csproj", "{FE224AA7-CD45-4E7C-AB99-D864AE896CCF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestWcfWeb", "RestWcfWeb\RestWcfWeb.csproj", "{1BBE06D0-E573-4F72-A6CA-10DD185BA864}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE224AA7-CD45-4E7C-AB99-D864AE896CCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE224AA7-CD45-4E7C-AB99-D864AE896CCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE224AA7-CD45-4E7C-AB99-D864AE896CCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE224AA7-CD45-4E7C-AB99-D864AE896CCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BBE06D0-E573-4F72-A6CA-10DD185BA864}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BBE06D0-E573-4F72-A6CA-10DD185BA864}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BBE06D0-E573-4F72-A6CA-10DD185BA864}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BBE06D0-E573-4F72-A6CA-10DD185BA864}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D78C706B-640C-4133-9B17-0DAE271DFCE6}
+	EndGlobalSection
+EndGlobal
